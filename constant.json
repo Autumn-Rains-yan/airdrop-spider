@@ -1,5 +1,8 @@
 {
   "BasePath": "E:",
-  "isHeadless": "false",
-  "HSPath": "E:\\wujinchen\\Hubstudio\\2.19.0.1"
+  "HubStudioPath": "E:\\wujinchen\\Hubstudio\\2.19.0.1",
+  "MetaMaskId": "pnmaagmaceflcggmjenckplkjpdmjcal",
+  "APP_ID": "",
+  "APP_SECRET": "",
+  "GROUP_CODE": "11568280"
 }
