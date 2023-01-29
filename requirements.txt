@@ -1,0 +1,7 @@
+pyside6~=6.4.2
+asyncslot~=0.3.1
+requests~=2.28.1
+playwright~=1.29.1
+mnemonic~=0.20
+web3~=5.31.3
+pyinstaller~=5.7.0

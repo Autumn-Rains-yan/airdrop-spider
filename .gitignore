@@ -1,0 +1,6 @@
+*.iml
+/build
+/dist
+__pycache__
+.idea
+main.spec
