@@ -8,7 +8,7 @@
 - windows配合指纹浏览器(hubstudio使用)
 - settings/ProjectSettings.py里配置hubstudio的`APP_ID `,`APP_SECRET`,`GROUP_CODE`
 
-- debug环境中手动执行cmd命令行开启hubstudio本地服务，打包后**不需要**了手动运行命令，但是有一个固定延迟**10秒**才会出现ui界面加载数据，如果无数据考虑增加**延迟时间**
+- debug环境中手动执行cmd命令行开启hubstudio本地服务，打包后**不需要**了手动运行命令，会在启动时监听终端信息，hubstudio启动完毕**自动加载**ui界面
 - `app_id` `group_code`与上边的配置是一样的，debug模式手动开启服务是为了不用每次开启调试都要先等待服务启动
 
 
