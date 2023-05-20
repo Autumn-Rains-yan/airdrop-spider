@@ -1,5 +1,5 @@
 - 开发者请移步开发指南[开发文档](https://github.com/Autumn-Rains-yan/airdrop-spider/blob/main/README.dev.md)
-- 目前项目仅支持windows，理论上是可以跨平台的，后续会进行开发
+- 目前项目仅支持windows，待hubstudio更新macos版本后，会同步支持macos
 ---
 ### 环境配置
 - HubStudio指纹浏览器(v2.19.0.1)
